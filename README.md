@@ -27,7 +27,10 @@ Objectives:
    Features like videos, animations, forums, and live sessions make learning more engaging.
    These tools promote active participation and improve knowledge retention.
 
+Entities and their Relationships :
 ![Dbms Project drawio](https://github.com/user-attachments/assets/c7043868-dbdb-4bac-936c-ac748f1b0efb)
+
+E-R Diagram :
 ![Dbms 2](https://github.com/user-attachments/assets/f56518e1-8c67-4ea8-ada0-2190c803c04a)
 
 Conclusion:
