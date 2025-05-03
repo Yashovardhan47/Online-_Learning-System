@@ -34,6 +34,7 @@ Entities and their Relationships :
 ![Dbms 2](https://github.com/user-attachments/assets/f56518e1-8c67-4ea8-ada0-2190c803c04a)
 
 Conclusion:
+
 The Online Learning System revolutionizes education by providing a dynamic, accessible, and user-centric platform for seamless learning experiences. Here are five key takeaways:
 Enhanced Accessibility – Ensures 24/7 availability across devices, supporting diverse learners with WCAG-compliant features for inclusivity.
 Personalized Learning – Leverages AI-driven recommendations and self-paced modules to cater to individual learning styles and progress.
@@ -45,5 +46,6 @@ Online learning systems have emerged as a powerful alternative to traditional cl
 However, despite its many advantages, there are still challenges to address—such as ensuring equal access to technology, maintaining student engagement, and upholding academic integrity. Continued innovation and collaboration between educators, developers, and policymakers are essential to overcoming these hurdles.
 
  Future Work:
+ 
 The online learning system will evolve with AI tutors for personalized support, AR/VR for immersive lessons, blockchain-secured certifications, predictive analytics for performance tracking, and multilingual accessibility. These upgrades aim to create a more interactive, globally accessible, and data-driven learning platform while maintaining user-friendly design. Continuous improvements will be guided by user feedback and emerging EdTech trends. 
 
